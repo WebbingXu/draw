@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-19T04:48:46.736Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/112.0" etag="X2JLMpROdqWSStC3rV97" version="21.1.8" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-04-19T04:56:51.521Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/112.0" etag="q1Fm9kAnTBvA3WEmnAuP" version="21.1.8" type="github" pages="3">
   <diagram name="整体框架" id="zP9IxZ34LURUViKpl81V">
     <mxGraphModel dx="2664" dy="2344" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -382,6 +382,14 @@
         </mxCell>
         <mxCell id="Lc68wI4em5Wbs-EjSBk6-22" value="NodeAffinity" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" vertex="1" parent="1">
           <mxGeometry x="150" y="310" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Lc68wI4em5Wbs-EjSBk6-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;dashed=1;" edge="1" parent="1" source="Lc68wI4em5Wbs-EjSBk6-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="470" y="235" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Lc68wI4em5Wbs-EjSBk6-28" value="MyPlugin" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="490" y="100" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
